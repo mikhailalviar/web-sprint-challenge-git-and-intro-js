@@ -1,5 +1,3 @@
-const { copy } = require("../web-module-challenge-arrays");
-
 const artists = [
   {
     "id": 0,
